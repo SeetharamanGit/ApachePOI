@@ -65,7 +65,7 @@ public class Colorchangingcells {
 	    woor.write(fileOut);
 	    fileOut.flush();
 	    fileOut.close();
-		
+		System.out.println("Git2 Update");
 	}
 
 }
